@@ -26,11 +26,7 @@ A passionate MERN Stack Developer || Full-Stack Enthusiast || Tech Explorer from
 ![](https://github-readme-stats.vercel.app/api?username=Ssourabh19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ssourabh19&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssourabh19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ssourabh19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
